@@ -1,0 +1,18 @@
+1) The return type is int, the method name is cmd_worktree, and the parameters are (int ac, const char **av, const char *prefix)
+
+2) The most recent release notes is RelNotes 1.5.2
+
+3) tail -4 returns the last 4 values and head -1 returns the first value out of the 4 remaining
+
+5) Update German translation for Git v2.31.0
+
+6) Command: PAGER='head -n 80' git log --graph --oneline | grep "refactored"
+ Output: | * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 94bcad7979 sequencer: change complete_action() to use the refactored functions
+| * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | bbfe5302d5 implement test_might_fail using a refactored test_must_fail
+* | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | c18f75a1e9 send-email: add tests for refactored prompting| * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 94bcad7979 sequencer: change complete_action() to use the refactored functions
+| * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | bbfe5302d5 implement test_might_fail using a refactored test_must_fail
+* | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | c18f75a1e9 send-email: add tests for refactored prompting
+
+7) Documentation/RelNotes/2.31.1.txt
+
+8) Head, jch, main, maint, master, next, seen, todo

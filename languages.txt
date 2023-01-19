@@ -1,0 +1,3 @@
+My favorite programming language is Python because it is very easy to use. I like the fact that it is close to natural languages and uses the tab based line structure. I also like the amount of importable apis to allow python to be used for different functions
+
+Yes Python is my most experienced language
