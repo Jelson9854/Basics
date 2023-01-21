@@ -13,6 +13,6 @@
 | * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | bbfe5302d5 implement test_might_fail using a refactored test_must_fail
 * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | c18f75a1e9 send-email: add tests for refactored prompting
 
-7) Documentation/RelNotes/2.31.1.txt
+7) Documentation/RelNotes/2.31.1.txt was the first file added and config.txt was the first file modified
 
 8) Head, jch, main, maint, master, next, seen, todo
